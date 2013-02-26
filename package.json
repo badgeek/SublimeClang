@@ -11,7 +11,7 @@
                 "*": [
                     {
                         "version": "1.0.41",
-                        "url": "https://downloads.sourceforge.net/project/sublimeclang/SublimeClang-1.0.41.sublime-package"
+                        "url": "http://jaist.dl.sourceforge.net/project/sublimeclang/SublimeClang-1.0.41.sublime-package"
                     }
                 ]
             }
